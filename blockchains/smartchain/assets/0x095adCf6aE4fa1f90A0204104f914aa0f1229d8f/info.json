@@ -1,0 +1,15 @@
+{
+    "name": "Free Gaza Islamic Coin",
+    "type": "BEP20",
+    "symbol": "Gaza",
+    "decimals": 18,
+    "description": "Gaza Coin is a cryptocurrency dedicated to supporting the liberation of Gaza and advocating for freedoms worldwide. It champions humanitarian causes and seeks to empower efforts for justice and equality. Additionally Gaza Coin promotes adherence to Islamic principles in financial trading, offering a Sharia-compliant digital asset for ethical and transparent transactions.",
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x095adCf6aE4fa1f90A0204104f914aa0f1229d8f",
+    "status": "active",
+    "id": "0x095adCf6aE4fa1f90A0204104f914aa0f1229d8f",
+    "tags": [
+        "memes",
+        "nft"
+    ]
+}
